@@ -1,7 +1,7 @@
 # DEG-InD-Exporter
 This tool helps automate exports of different quality PDF files from InDesign.
 
--= Installation =-
+**Installation**
 
 1. Open Adobe InDesign.
 2. Navigate to Window > Utitlies > Scripts.
@@ -10,7 +10,20 @@ This tool helps automate exports of different quality PDF files from InDesign.
 5. Close and reopen the Scripts tab to reload it.
 6. You're ready to export!
 
--= Using the script =-
+**Before starting**
+
+Make sure you have three export presets in InDesign with the following names:
+
+lowres
+
+medres
+
+print
+
+Capitalization matters, so name them exactly as you see them above.
+The settings of those presets are up to you to decide, but it would be good if they are standard across the department.
+
+**Using the script**
 
 When your document is ready to export, simply:
 1. Open the Scripts menu in InDesign.
@@ -19,3 +32,4 @@ When your document is ready to export, simply:
 4. Select a language from the diaogue menu.
 5. Wait for your export to finish and verify it.
 
+If you are experiencing any issues, please contact me at: [aru@designeyeweargroup.com](aru@designeyeweargroup.com)
